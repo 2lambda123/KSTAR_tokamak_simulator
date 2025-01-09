@@ -1,4 +1,4 @@
-Keras==2.4.3
+Keras==3.8.0
 matplotlib==3.5.1
 numpy==1.19.5
 PyQt5-Qt5==5.15.2
